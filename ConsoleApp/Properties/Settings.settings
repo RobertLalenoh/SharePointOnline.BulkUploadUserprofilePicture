@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Tenant_admin_url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://&lt;tenantname&gt;-admin.sharepoint.com</Value>
+    </Setting>
+    <Setting Name="Tenant_admin_username" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">admin@&lt;tenantname&gt;.onmicrosoft.com</Value>
+    </Setting>
+    <Setting Name="Tenant_admin_password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Profile_prefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">i:0#.f|membership|</Value>
+    </Setting>
+    <Setting Name="Small_thumbwidth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">48</Value>
+    </Setting>
+    <Setting Name="Medium_thumbwidth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">72</Value>
+    </Setting>
+    <Setting Name="Large_thumbwidth" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="Import_csv_location" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">userlist.csv</Value>
+    </Setting>
+    <Setting Name="Sleep_time_millisecond" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5000</Value>
+    </Setting>
+    <Setting Name="Mysite_url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://&lt;tenantname&gt;-my.sharepoint.com</Value>
+    </Setting>
+    <Setting Name="Relative_path_userprofile_picture_library" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/User%20Photos/Profielafbeeldingen</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
