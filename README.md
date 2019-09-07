@@ -4,8 +4,8 @@ With this solution you can do an bulkupload from userprofile pictures in the Sha
 
 Office365 not automatically does an initial synchronization from user profile pictures in the User profile database  as it does with Delve and Outlook.  This manual and solution helps you to do an initial load yourself.
 
-
 **1. Download  the profile pictures from Outlook Online. **
+
   Use [this powershell script ](https://drive.google.com/file/d/1mzGZdV_xXQrvJ7iX_WXns688R8nK0WZM/view?usp=sharing "this") to download all the  thumbnails from Outlook. 
 
 1. Check if the paths in the script at $PictureStorageDir and $ExportLocation exists.
