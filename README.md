@@ -2,7 +2,7 @@
 
 With this solution you can do a bulkupload from userprofile pictures in the SharePoint Online User profile database.
 
-Office365 not automatically does an initial synchronization from user profile pictures in the User profile database  as it does with Delve and Outlook.  This manual and solution helps you to do an initial load yourself.
+Office365 not automatically does an initial synchronization from user profile pictures in SharePoint Online as it does with Delve and Outlook.  This manual and solution helps you to do an initial load yourself.
 
 **1. Download the profile pictures from Outlook Online.**
 
@@ -59,7 +59,7 @@ All the settings are set in the ConsoleApp.exe.config.
             </setting>
 
 
-1.  For every setting that usses tenantname change this to the name of your own tenant. 
+1.  For every setting that uses tenantname,change this to the name of your own tenant. 
 2.  Change the import_csv_location to the location from the CSV file you created.
 3.  Run the ConsoleApp.exe.
 
