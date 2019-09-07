@@ -1,6 +1,6 @@
 # Office 365 SharePoint Online | Bulk upload userprofile pictures
 
-With this solution you can do a bulkupload from userprofile pictures in to the SharePoint Online User profile database.
+With this solution you can do a bulk upload of userprofile pictures in to the SharePoint Online User profile database.
 
 Office365 not automatically does an initial synchronization from user profile pictures in SharePoint Online as it does with Delve and Outlook.  This manual and solution helps you to do an initial load yourself.
 
@@ -65,4 +65,4 @@ All the necessary settings are set in the ConsoleApp.exe.config.
 
 It can take a while before all the user profile pictures are loaded into the User profile database. 
 
-If you made an employee directory in the search sitecollection, you will noticed that the profile pictures are not shown immediately. This is because the search enginge has not crawled the user profle databse yet. Be patience, they will show up after a couple of hours. 
+If you made an employee directory in the search sitecollection, you will notice that the profile pictures are not shown immediately. This is because the search enginge has not crawled the user profile database yet. Be patience, they will show up after a couple of hours. 
