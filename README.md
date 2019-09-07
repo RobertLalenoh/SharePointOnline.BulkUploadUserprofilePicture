@@ -59,10 +59,10 @@ All the settings are set in the ConsoleApp.exe.config.
             </setting>
 
 
-1.  For every setting that uses tenantname,change this to the name of your own tenant. 
+1.  For every setting that uses tenantname, change this to the name of your own tenant. 
 2.  Change the import_csv_location to the location from the CSV file you created.
 3.  Run the ConsoleApp.exe.
 
-It can take a while befor all the user profile pictures are loaded into the User profile database. 
+It can take a while before all the user profile pictures are loaded into the User profile database. 
 
 If you made an employee directory in the search sitecollection, you will noticed that the profile pictures are not shown immediately. This is because the search enginge has not crawled the user profle databse yet. Be patience, they will be showned after a couple of hours. 
