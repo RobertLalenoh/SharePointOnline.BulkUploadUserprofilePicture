@@ -65,4 +65,4 @@ All the necessary settings are set in the ConsoleApp.exe.config.
 
 It can take a while before all the user profile pictures are loaded into the User profile database. 
 
-If you made an employee directory in the search sitecollection, you will noticed that the profile pictures are not shown immediately. This is because the search enginge has not crawled the user profle databse yet. Be patience, they will be showned after a couple of hours. 
+If you made an employee directory in the search sitecollection, you will noticed that the profile pictures are not shown immediately. This is because the search enginge has not crawled the user profle databse yet. Be patience, they will show up after a couple of hours. 
