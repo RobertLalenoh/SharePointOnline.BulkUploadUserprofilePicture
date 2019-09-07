@@ -4,11 +4,9 @@ With this solution you can do an bulkupload from userprofile pictures in the Sha
 
 Office365 not automatically does an initial synchronization from user profile pictures in the User profile database  as it does with Delve and Outlook.  This manual and solution helps you to do an initial load yourself.
 
-**1. Download  the profile pictures from Outlook Online. **
+**2. Download the profile pictures from Outlook Online.**
 
-
-**2. Configure the console app**
-  Use [this powershell script ](https://drive.google.com/file/d/1mzGZdV_xXQrvJ7iX_WXns688R8nK0WZM/view?usp=sharing "this") to download all the  thumbnails from Outlook. 
+Use [this powershell script ](https://drive.google.com/file/d/1mzGZdV_xXQrvJ7iX_WXns688R8nK0WZM/view?usp=sharing "this") to download all the  thumbnails from Outlook. 
 
 1. Check if the paths in the script at $PictureStorageDir and $ExportLocation exists.
 2. Make sure you execute this script with admin permissions otherwise you are only able to download your own thumbnail.
@@ -68,26 +66,3 @@ All the settings are set in the ConsoleApp.exe.config.
 It can take a while befor all the user profile pictures are loaded into the User profile database. 
 
 If you made an employee directory in the search sitecollection, you will noticed that the profile pictures are not shown immediately. This is because the search enginge has not crawled the user profle databse yet. Be patience, they will be showned after a couple of hours. 
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
