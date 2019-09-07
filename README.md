@@ -59,7 +59,7 @@ All the settings are set in the ConsoleApp.exe.config.
             </setting>
 
 
-1.  For every setting that uses tenantname change this to the name of your own tenant. 
+1.  For every setting that usses tenantname change this to the name of your own tenant. 
 2.  Change the import_csv_location to the location from the CSV file you created.
 3.  Run the ConsoleApp.exe.
 
