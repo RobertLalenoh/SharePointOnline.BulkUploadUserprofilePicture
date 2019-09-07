@@ -1,6 +1,6 @@
 # Office 365 SharePoint Online | Bulk upload userprofile pictures
 
-With this solution you can do a bulk upload of userprofile pictures in to the SharePoint Online User profile database.
+With this solution you can do a bulk upload of userprofile pictures into the SharePoint Online User profile database.
 
 Office365 not automatically does an initial synchronization from user profile pictures in SharePoint Online as it does with Delve and Outlook.  This manual and solution helps you to do an initial load yourself.
 
