@@ -1,4 +1,4 @@
-# Bulk upload Userprofile pictures
+# Office 365 SharePoint Online | Bulk upload userprofile pictures
 
 With this solution you can do an bulkupload from userprofile pictures in the SharePoint Online User profile database.
 
