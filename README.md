@@ -22,7 +22,7 @@ The content of the CSV file wil look like this:
 
 Compile the Github version or download an already compiled one [here](https://drive.google.com/open?id=1yjc8b4bZRvIPZclLf0kgsmNeVozZ0_Rq "here").
 
-All the settings are set in the ConsoleApp.exe.config. 
+All the necessary settings are set in the ConsoleApp.exe.config. 
 
 		setting name="Tenant_admin_url" serializeAs="String">
                 <value>https://tenantname-admin.sharepoint.com</value>
